@@ -18,6 +18,18 @@ If you are using a client and blog integrated with the backend, you need to rede
 
 # Version Update Log
 
+
+## v1.17.0 | 2025-06-29
+
+**🌟 New Features**
+
+1. Add a weather function switch on the home page.
+2. Add a display switch for the homepage traffic monitoring chart.
+
+**🔧 Fixes**
+
+Fix the weather API error.
+
 ## v1.16.0 | 2024-04-17
 
 **🌟 New Features**
